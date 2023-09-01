@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/entity/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="src/entity/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="src/entity/dsn.jar"/>
+	<classpathentry kind="lib" path="src/entity/gimap.jar"/>
+	<classpathentry kind="lib" path="src/entity/imap.jar"/>
+	<classpathentry kind="lib" path="src/entity/iText-5.0.5.jar"/>
+	<classpathentry kind="lib" path="src/entity/javax.mail.jar"/>
+	<classpathentry kind="lib" path="src/entity/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="lib" path="src/entity/JTattoo-1.6.13.jar"/>
+	<classpathentry kind="lib" path="src/entity/log4j-api-2.17.2.jar"/>
+	<classpathentry kind="lib" path="src/entity/mail.jar"/>
+	<classpathentry kind="lib" path="src/entity/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="src/entity/mailapi.jar"/>
+	<classpathentry kind="lib" path="src/entity/poi-5.2.2.jar"/>
+	<classpathentry kind="lib" path="src/entity/poi-excelant-5.2.2.jar"/>
+	<classpathentry kind="lib" path="src/entity/poi-ooxml-5.2.2.jar"/>
+	<classpathentry kind="lib" path="src/entity/poi-ooxml-lite-5.2.2.jar"/>
+	<classpathentry kind="lib" path="src/entity/pop3.jar"/>
+	<classpathentry kind="lib" path="src/entity/smtp.jar"/>
+	<classpathentry kind="lib" path="src/entity/xstream-1.4.18.jar"/>
+	<classpathentry kind="lib" path="src/jar/commons-email-1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
